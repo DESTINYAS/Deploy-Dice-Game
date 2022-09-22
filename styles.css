@@ -9,10 +9,6 @@
   display: inline-block;
 
 }
-.tag{
-  color: white;
-
-}
 
 body {
   background-color: #393E46;
@@ -48,5 +44,10 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+
+}
+
+.tag{
+  color: white;
 
 }
